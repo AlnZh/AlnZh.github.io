@@ -1,0 +1,25 @@
+body {
+    background-color: #000;
+}
+#flex {
+    display: flex;
+    flex-direction: row;
+}
+nav {
+    background-color: #ececec;
+}
+main {
+    background-color: #BC8F8F;
+}
+h1 {
+    color: red;
+}
+p {
+    font-size: 26px;
+}
+a {
+    font-size: 28px;
+}
+}
+tittle { font-size: 26px;
+}
